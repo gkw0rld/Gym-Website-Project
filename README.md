@@ -1,4 +1,4 @@
-# To access the website click the below link:
+# To access the website, click the link below:
 https://gym-website-project.pages.dev/
 
 ## Getting Started with Create React App
